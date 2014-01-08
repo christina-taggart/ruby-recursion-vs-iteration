@@ -21,13 +21,13 @@ Use different numbers for input and see what you get.
 
 Running the benchmarks repeatedly helps to smooth out any noise if, say, another process on your computer took some of the CPU's resources while one of the benchmarks was running.
 
-###Release 1 : Refactor (Optional) 
+###Release 1 : Refactor (Optional)
 
 Refactor `fibonacci_recursive` to make it faster!
 
 ##Optimize Your Learning
 
-Think about 
+Think about
   * Where is the computer doing "rework?" (i.e. calculating a number it's already calculated before)
   * How could you prevent the computer from doing rework?
   * Need help? Look into ruby's optional or default parameters.
